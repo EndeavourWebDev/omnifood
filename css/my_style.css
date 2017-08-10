@@ -411,7 +411,7 @@ a:active {
 /* -------------------------------------- */
 
 .section-testimonials {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(https://cdn.rawgit.com/EndeavourWebDev/omnifood/1560c26e/css/img/back-customers.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/back-customers.jpg);
     background-size: cover;
     color: #fff;
     background-attachment: fixed;
